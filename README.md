@@ -25,7 +25,7 @@ As an air traffic controller
 To ensure safety 
 I want to prevent landing when weather is stormy 
 ```
-# Instruction
+# Instructions
 - Open your terminal.
 - Clone the repository in a folder.
 - Type ```git clone https://github.com/LeoRoma/airport-js.git``` to clone the repository.
@@ -35,5 +35,17 @@ I want to prevent landing when weather is stormy
 - Language: Javascript ES5.
 - Test: Jasmine.
 
-# Classes and Functions
-- 
+# Classes
+- Airport.
+- Plane.
+
+# Functions 
+For Airport class:
+- planes.
+- clearForLanding.
+- clearForTakeOff.
+- isStormy.
+
+-For Plane class:
+- land.
+- takeOff
