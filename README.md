@@ -28,4 +28,12 @@ I want to prevent landing when weather is stormy
 # Instruction
 - Open your terminal.
 - Clone the repository in a folder.
-- Type ```git clone 
+- Type ```git clone https://github.com/LeoRoma/airport-js.git``` to clone the repository.
+- Run in your text editor.
+
+# Tech and Test
+- Language: Javascript ES5.
+- Test: Jasmine.
+
+# Classes and Functions
+- 
