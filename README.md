@@ -1,4 +1,5 @@
 # Description
+- The application solves the problems of the user story.
 User story:
 ```
 As an air traffic controller 
@@ -29,6 +30,7 @@ I want to prevent landing when weather is stormy
 - Open your terminal.
 - Clone the repository in a folder.
 - Type ```git clone https://github.com/LeoRoma/airport-js.git``` to clone the repository.
+- Type ```cd airport-js``` to go in the app folder.
 - Run in your text editor.
 
 # Tech and Test
@@ -46,6 +48,6 @@ For Airport class:
 - clearForTakeOff.
 - isStormy.
 
--For Plane class:
+For Plane class:
 - land.
 - takeOff
