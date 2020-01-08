@@ -37,7 +37,7 @@ I want to prevent landing when weather is stormy
 
 # Tech and Test
 - Language: Javascript ES5.
-- Test: Jasmine.
+- Test: Jasmine 3.4.0
 
 # Classes
 - Airport.
