@@ -1,5 +1,7 @@
 # Description
 - The application solves the problems of the user story.
+- To build the application I have utilized the Test Driven Development (TDD) process followed by the red-green-refactor cycle.
+
 User story:
 ```
 As an air traffic controller 
